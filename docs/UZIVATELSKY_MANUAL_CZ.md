@@ -352,19 +352,9 @@ V horní části historie se zobrazují:
 
 ---
 
-## 11. Pro funkce (budoucí)
+## 11. Všechny funkce zahrnuty
 
-### 11.1 Co je Pro verze?
-
-Pro verze je placená verze aplikace, která:
-- Odstraní omezení 100 vozidel za session
-- Umožní neomezenou Smart Screen
-- Zobrazí lock screen UI vždy (bez nutnosti probuzení)
-- Získá přístup k budoucím funkcím
-
-### 11.2 Jak získat Pro verzi
-
-Pro verze budou k dispozici v Google Play Store za jednorázovou cenu (~€2.99). V současné době běží aplikace v **DONATION MODE**, což znamená, že všechny funkce jsou zdarma.
+Všechny funkce popsány v tomto manuálu jsou součástí bezplatné verze aplikace. Aktuálně neexistuje žádná oddělená Pro verze - veškerá funkčnost je dostupná pro všechny uživatele.
 
 ---
 
@@ -449,7 +439,7 @@ Pokud máte problém, který není řešen v této příručce:
 
 Děkuji, že používáte Bike Radar Overlay!
 
-Tato aplikace byla vytvořena s cílem zvýšit bezpečnost cyklistů a zpříjemnit jízdu na kole. Pokud vám aplikace pomohla, zvažte podporu vývoje přes Ko-fi nebo budoucí Pro verzi.
+Tato aplikace byla vytvořena s cílem zvýšit bezpečnost cyklistů a zpříjemnit jízdu na kole.
 
 ---
 
