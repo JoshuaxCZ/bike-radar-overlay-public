@@ -426,12 +426,11 @@ Pokud máte problém, který není řešen v této příručce:
 
 1. V aplikaci klikněte na **Log** v dolní části hlavní obrazovky
 2. Klikněte na **Kopírovat** a připojte log do zprávy
-3. Poslete e-mail na: joshuaxcz@gmail.com nebo vytvořte issue na GitHubu
+3. Poslete e-mail na: support@vgos.cz nebo vytvořte issue
 
-### 13.2 GitHub
+### 13.2 Podpora
 
-- **Repozitář:** https://github.com/JoshuaxCZ/VARIA_RADAR
-- **Issues:** https://github.com/JoshuaxCZ/VARIA_RADAR/issues
+Pokud potřebujete další pomoc, napište na support@vgos.cz
 
 ---
 
