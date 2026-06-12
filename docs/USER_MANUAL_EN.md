@@ -130,13 +130,18 @@ The radar strip is a thin bar that appears at the top of the screen. It displays
 
 **Threat Level Color Codes:**
 
-| Color | Distance | Meaning |
-|-------|----------|---------|
-| 🟢 **Green** | > 100 m | Vehicle is far away |
-| 🟠 **Orange** | 50–100 m | Vehicle is approaching |
-| 🔴 **Red** | < 50 m | Vehicle is near |
+Note: Each manufacturer defines threat levels differently:
 
-**Note:** Distances are approximate and depend on the radar.
+**Garmin Varia (3 levels):**
+- 🟢 **Green (LOW)**: Vehicle approaching slowly
+- 🟠 **Orange (MEDIUM)**: Vehicle approaching at medium speed
+- 🔴 **Red (HIGH)**: Vehicle approaching fast
+- *Note:* Garmin Varia uses relative vehicle speed to determine threat level
+
+**Coospo TR70 (2 levels):**
+- 🟢 **Green (LOW)**: Vehicle is far away
+- 🔴 **Red (HIGH)**: Vehicle is near
+- *Note:* Coospo TR70 uses only 2 threat levels, without the MEDIUM intermediate level
 
 ### 6.2 Speedometer (speed widget)
 
