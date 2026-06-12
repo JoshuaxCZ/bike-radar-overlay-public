@@ -4,5 +4,5 @@ Android aplikace pro cyklisty pro zobrazeni radarovych dat na displayi jako over
 
 ## Documentation
 
-- [Uživatelský manuál (Čeština)](docs/USER_MANUAL.md)
+- [Uživatelský manuál (Čeština)](docs/UZIVATELSKY_MANUAL_CZ.md)
 - [User Manual (English)](docs/USER_MANUAL_EN.md)
