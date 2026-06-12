@@ -130,13 +130,18 @@ Radarový pruh je tenký proužek, který se zobrazí v horní části obrazovky
 
 **Barevné kódy hrozby:**
 
-| Barva | Vzdálenost | Význam |
-|-------|-----------|--------|
-| 🟢 **Zelená** | > 100 m | Vozidlo je daleko |
-| 🟠 **Oranžová** | 50–100 m | Vozidlo se přibližuje |
-| 🔴 **Červená** | < 50 m | Vozidlo je blízko |
+Upřesnění: Každý výrobce definuje úrovně hrozby jinak:
 
-**Poznámka:** Vzdálenosti jsou orientační a závisí na radaru.
+**Garmin Varia (3 úrovně):**
+- 🟢 **Zelená (LOW)**: Vozidlo se přibližuje pomalu
+- 🟠 **Oranžová (MEDIUM)**: Vozidlo se přibližuje středně rychle  
+- 🔴 **Červená (HIGH)**: Vozidlo se přibližuje rychle
+- *Poznámka:* Garmin Varia používá relativní rychlost vozidla k určení hrozby
+
+**Coospo TR70 (2 úrovně):**
+- 🟢 **Zelená (LOW)**: Vozidlo je daleko
+- 🔴 **Červená (HIGH)**: Vozidlo je blízko
+- *Poznámka:* Coospo TR70 používá pouze 2 úrovně hrozby, bez mezikroku MEDIUM
 
 ### 6.2 Tachometr (speed widget)
 
